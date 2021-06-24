@@ -15,7 +15,7 @@ Instructions -
 * Download the datasets from Medical Segmentation Decathlon (MSD) challenge. for datasets other than MSD, convert them into structured format that resembles the MSD directory structure.
 * Mount the drive onto Colab to store the code repo
 * Set a base directory to install the libraries and nn-UNet framework
-* Upload the datasets into the base directory as mentioned [here](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_conversion.md)
+* Upload the datasets into the base directory as mentioned [here](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/setting_up_paths.md)
 * Clone the repository and install dependencies and libraries
 * Set the environment variables mentioning the location of input dataset folders and output folders to store the result
 * Mention the Task name i.e., the dataset name to be used. Follow the naming convention as mentioned [here](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_conversion.md)
